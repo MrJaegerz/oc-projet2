@@ -249,6 +249,7 @@ i {
   .right h1 {
     text-align: center;
     display: inline-block;
+    margin-top: 0.5em;
   }
 
   .formation {
